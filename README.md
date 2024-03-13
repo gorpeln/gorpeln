@@ -10,9 +10,9 @@
 * 2024-02-24 - <a href='https://gorpeln.top/article/17087779433' target='_blank'>GitHub贡献者可获取 Stark 空投</a>
 * 2023-12-03 - <a href='https://gorpeln.top/article/17016025546' target='_blank'>博客黑夜模式：Dark Reader 插件</a>
 * 2023-11-04 - <a href='https://gorpeln.top/article/16990919984' target='_blank'>个性二维码合集</a>
+* 2023-10-02 - <a href='https://gorpeln.top/article/16962230954' target='_blank'>Sublime Text 常用插件</a>
 * 2023-09-29 - <a href='https://gorpeln.top/article/16959932733' target='_blank'>博客评论时一键填写自己的信息</a>
 * 2023-08-23 - <a href='https://gorpeln.top/article/16927632006' target='_blank'>8周年：来自GPT的总结</a>
-* 2023-07-17 - <a href='https://gorpeln.top/article/16895899334' target='_blank'>同一台电脑上使用多个GitHub账号</a>
 <!-- blog ends -->
 ---
  
