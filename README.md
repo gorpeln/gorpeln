@@ -18,8 +18,7 @@
  
 
 <p style="display:flex">
-    <img src="https://github.gorpeln.eu.org/api/top-langs/?username=gorpeln&layout=donut&theme=dark&count_private=true" width="49%">
-    <img src="https://github.gorpeln.eu.org/api?username=gorpeln&show_icons=true&theme=dark&line_height=40" width="49%">
-
+    <img src="https://github.202090.xyz/api/top-langs/?username=gorpeln&layout=donut&theme=dark&count_private=true" width="49%">
+    <img src="https://github.202090.xyz/api?username=gorpeln&show_icons=true&theme=dark&line_height=40" width="49%">
 </p>
 
