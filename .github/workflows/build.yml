@@ -1,0 +1,57 @@
+name: Build README
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 8 * * 3'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out repo
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+
+    - uses: actions/cache@v2
+      name: Configure pip caching
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+
+    - name: Install Python dependencies
+      run: |
+        python -m pip install -r requirements.txt
+
+    - name: Update README
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      run: |-
+        python build_readme.py
+        cat README.md
+        echo "update complete."
+
+    # 新增的步骤，用于更新 time.md 文件
+    - name: Update time.md with current timestamp
+      run: |-
+        date +"%Y-%m-%d %H:%M:%S" > time.md
+        cat time.md
+        echo "Time updated."
+
+    - name: Commit and push if changed
+      run: |-
+        git diff
+        git config user.email "${{ secrets.COMMIT_EMAIL }}"
+        git config user.name "gorpeln"
+        git add -A
+        git commit -m "Updated content and timestamp" || exit 0
+        git push  
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
