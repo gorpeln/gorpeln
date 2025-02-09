@@ -32,4 +32,7 @@
   <img src="https://github.202090.xyz/api/top-langs/?username=gorpeln&layout=compact&hide_border=true&langs_count=8" />
 </picture>
 
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=gorpeln&theme=github-compact&hide_border=true&area=true" />
+
+
 
