@@ -17,8 +17,19 @@
 ---
  
 
-<p style="display:flex">
-    <img src="https://github.202090.xyz/api/top-langs/?username=gorpeln&layout=donut&theme=dark&count_private=true" width="49%">
-    <img src="https://github.202090.xyz/api?username=gorpeln&show_icons=true&theme=dark&line_height=40" width="49%">
-</p>
+<picture>
+  <source
+    srcset="https://github.202090.xyz/api?username=gorpeln&show_icons=true&hide_border=true&line_height=24&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github.202090.xyz/api?username=gorpeln&show_icons=true&hide_border=true&line_height=24" />
+</picture>
+<picture>
+  <source
+    srcset="https://github.202090.xyz/api/top-langs/?username=gorpeln&layout=compact&hide_border=true&langs_count=8&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github.202090.xyz/api/top-langs/?username=gorpeln&layout=compact&hide_border=true&langs_count=8" />
+</picture>
+
 
