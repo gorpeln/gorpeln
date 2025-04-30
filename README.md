@@ -7,12 +7,12 @@
 #### 🤾‍♂️ <a href="https://gorpeln.top" target="_blank">Recent Blog</a>
  
 <!-- blog starts -->
+* 2025-02-02 - <a href='https://gorpeln.top/article/17384679236' target='_blank'>MathJax的基本使用</a>
 * 2025-01-18 - <a href='https://gorpeln.top/article/17372028582' target='_blank'>Mac应用发布错误：ITMS-91109</a>
 * 2024-12-21 - <a href='https://gorpeln.top/article/17347677826' target='_blank'>春节灯笼</a>
 * 2024-12-21 - <a href='https://gorpeln.top/article/17347663476' target='_blank'>彩带、樱花背景</a>
 * 2024-12-21 - <a href='https://gorpeln.top/article/17347655378' target='_blank'>节日倒计时与时间进度条</a>
 * 2024-11-08 - <a href='https://gorpeln.top/article/17310530239' target='_blank'>友链自动监测</a>
-* 2024-10-05 - <a href='https://gorpeln.top/article/17280983368' target='_blank'>定期自动备份又拍云存储</a>
 <!-- blog ends -->
 ---
  
