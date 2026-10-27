@@ -42,7 +42,7 @@ if __name__ == "__main__":
     entries = fetch_blog_entries()[:6]
 
     entries_md = "\n".join(
-        [f'* **`{entry["published"]}`** · [{entry["title"]}]({entry["url"]})'
+        [f'* `{entry["published"]}` · [{entry["title"]}]({entry["url"]})'
          for entry in entries]
     )
 
