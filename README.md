@@ -7,12 +7,12 @@
 #### 🤾‍♂️ <a href="https://gorpeln.top" target="_blank">Recent Blog</a>
  
 <!-- blog starts -->
-* 2026-02-15 - <a href='https://gorpeln.top/article/17711167178' target='_blank'>免费领取Synology C2的30G对象存储空间</a>
-* 2026-01-18 - <a href='https://gorpeln.top/article/17687280368' target='_blank'>用HuggingFace搭建100G超大图床</a>
-* 2025-12-14 - <a href='https://gorpeln.top/article/17657167928' target='_blank'>毫无破绽的自我批评</a>
-* 2025-11-29 - <a href='https://gorpeln.top/article/17644183553' target='_blank'>时光本的故事 - 始于热爱，归于珍藏</a>
-* 2025-10-03 - <a href='https://gorpeln.top/article/17594958674' target='_blank'>给博客图片添加水印</a>
-* 2025-09-30 - <a href='https://gorpeln.top/article/17592227011' target='_blank'>博客CDN流量异常</a>
+* <span style="background:#eee;padding:2px 6px;border-radius:6px;color:#444;">2026-02-15</span> · [免费领取Synology C2的30G对象存储空间](https://gorpeln.top/article/17711167178)
+* <span style="background:#eee;padding:2px 6px;border-radius:6px;color:#444;">2026-01-18</span> · [用HuggingFace搭建100G超大图床](https://gorpeln.top/article/17687280368)
+* <span style="background:#eee;padding:2px 6px;border-radius:6px;color:#444;">2025-12-14</span> · [毫无破绽的自我批评](https://gorpeln.top/article/17657167928)
+* <span style="background:#eee;padding:2px 6px;border-radius:6px;color:#444;">2025-11-29</span> · [时光本的故事 - 始于热爱，归于珍藏](https://gorpeln.top/article/17644183553)
+* <span style="background:#eee;padding:2px 6px;border-radius:6px;color:#444;">2025-10-03</span> · [给博客图片添加水印](https://gorpeln.top/article/17594958674)
+* <span style="background:#eee;padding:2px 6px;border-radius:6px;color:#444;">2025-09-30</span> · [博客CDN流量异常](https://gorpeln.top/article/17592227011)
 <!-- blog ends -->
 ---
  
