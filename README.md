@@ -6,7 +6,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=34&duration=3000&pause=1200&color=F2B94B&center=true&vCenter=true&width=620&height=64&lines=Hi%2C+I'm+gorpeln.+%F0%9F%91%8B" />
-  <img alt="Hi, I'm June. 👋" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=34&duration=3000&pause=1200&color=E68282&center=true&vCenter=true&width=620&height=64&lines=Hi%2C+I'm+gorpeln.+%F0%9F%91%8B" />
+  <img alt="Hi, I'm gorpeln. 👋" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=34&duration=3000&pause=1200&color=E68282&center=true&vCenter=true&width=620&height=64&lines=Hi%2C+I'm+gorpeln.+%F0%9F%91%8B" />
 </picture>
 
 <p>
@@ -28,10 +28,6 @@
 ### <a href="https://gorpeln.top" target="_blank">关于</a>
 <img src='https://img.gorpeln.top/p/Hi.gif' alt='Hi' width="24"/>Hi, I am gorpeln, a software development engineer from China who has a wide range of knowledge ([iOS](https://gorpeln.top/works),[MacOS](https://gorpeln.top/works), [mini programs](https://gorpeln.top/works), [front-end](https://gorpeln.top/works)) and is committed to becoming an architect. I am full of novel ideas and am currently putting them into practice.  
 
-<img src='https://img.gorpeln.top/p/Hi.gif' alt='Hi' width="24"/> Hi, I'm gorpeln, a software development engineer from China who has a wide range of knowledge covering [iOS](https://gorpeln.top/works), [macOS](https://gorpeln.top/works), [mini programs](https://gorpeln.top/works), [front-end](https://gorpeln.top/works) and is committed to becoming an architect. I am full of novel ideas and once put them into practice. I no longer work full-time in development, but I still maintain my passion for software development and will keep exploring in the future.
-
-<br>
-<img src='https://img.gorpeln.top/p/Hi.gif' alt='Hi' width="24"/> 你好，我是 gorpeln，一名来自中国的软件开发工程师。涉猎方向：[iOS](https://gorpeln.top/works)、[macOS](https://gorpeln.top/works)、[小程序](https://gorpeln.top/works)、[前端](https://gorpeln.top/works)，立志成长为一名架构师，拥有很多新颖想法并曾落地实践。虽现已不再专职开发，但我对软件开发依旧满怀热情，后续也会继续探索感兴趣的技术。
 
 ### <a href="https://gorpeln.top" target="_blank">技术栈</a>
 
@@ -64,7 +60,7 @@
 * `2025-09-30` · [博客CDN流量异常](https://gorpeln.top/article/17592227011)
 <!-- blog ends -->
  
-<p align="right"><a href="https://gorpeln。top/archives">全部归档 →</a></p>
+<p align="right"><a href="https://gorpeln.top/archives">全部归档 →</a></p>
 
 ---
 
