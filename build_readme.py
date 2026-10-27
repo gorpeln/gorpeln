@@ -40,10 +40,12 @@ if __name__ == "__main__":
     readme_contents = readme_path.open("r", encoding="utf-8").read()
 
     entries = fetch_blog_entries()[:6]
+
     entries_md = "\n".join(
-        [f'* <span style="background:#eee;padding:2px 6px;border-radius:6px;color:#444;">{entry["published"]}</span> · [{entry["title"]}]({entry["url"]})'
+        [f'* **`{entry["published"]}`** · [{entry["title"]}]({entry["url"]})'
          for entry in entries]
     )
+
     rewritten = replace_chunk(readme_contents, "blog", entries_md)
 
     readme_path.open("w", encoding="utf-8").write(rewritten)
